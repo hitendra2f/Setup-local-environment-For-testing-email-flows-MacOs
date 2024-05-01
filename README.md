@@ -31,6 +31,8 @@ MAIL_ENCRYPTION=null
 MAIL_FROM_ADDRESS="example@example.com"
 MAIL_FROM_NAME="${APP_NAME}"
 ```
+## Step 4: Access you local email
+Open your web browser to http://localhost:1080. You should see all your email on this link.
 ## 🚀 About Me
 I'm a full stack developer...
 (inbox.hitendra@gmail.com)
